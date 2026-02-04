@@ -9,5 +9,5 @@ output "applicant_name" {
 
 output "position_applied_for" {
   description = "Position being applied for"
-  value       = "Senior DevOps Engineer (with Golang expertise)"
+  value       = "Senior DevOps Engineer"
 }
